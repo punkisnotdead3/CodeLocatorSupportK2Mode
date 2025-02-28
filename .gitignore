@@ -1,0 +1,13 @@
+# IDE
+.idea/
+.vscode/
+
+# Binary files
+bin/
+*.exe
+*-linux
+*-mac
+
+# Go
+*.test
+*.out 
